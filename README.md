@@ -5,10 +5,11 @@ Previo a Iniciar el Desarrollo de Softaware para web usando el freamework de Nod
 un par de practicas de reporte de JavaScript puro, con el objetivo de confirmar los conocimientos basicos de logica de programación.
 *
 ## Historial de practicas
-|No.|Descripción| Estatus|
-|--|--|--|
-|1. | Metodologia de Evaluacion| ✅Finalizada|
-|2. | Inicializacion del Proyecto|✅😆Activo|
+|No.|Descripción| Potenciador| Estatus|
+|--|--|--|--|
+|1. | Metodologia de Evaluacion|| ✅Finalizada|
+|2. | Inicializacion del Proyecto||✅😆Activo|
+|3. | Declaracion de variables en JS||Activo 😊|
 *
 ### Autor
 Creado por : *Daniel de Jesús Bravo Godínez* /[@theIcedBlackTea](https://github.com/theIcedBlackTea)
